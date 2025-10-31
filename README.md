@@ -28,11 +28,7 @@ You can choose between **cloud-based** and **open-source** solutions depending o
 - **Cloud-Based**  
   - Google Cloud IoT Core  
   - AWS IoT Core  
-  - Microsoft Azure IoT Hub  
-
-- **Open-Source**  
-  - [ThingsBoard](https://thingsboard.io/) – data collection, processing, and visualization.  
-  - [Node-RED](https://nodered.org/) – low-code IoT workflow builder.  
+  - Microsoft Azure IoT Hub   
 
 ---
 
@@ -44,11 +40,3 @@ You can choose between **cloud-based** and **open-source** solutions depending o
 
 ---
 
-## 📋 Project Structure  
-```bash
-├── /hardware/           # Schematics, wiring diagrams
-├── /firmware/           # ESP32 source code
-├── /server/             # Backend (API, DB, Cloud config)
-├── /dashboard/          # Web/mobile interface
-├── /docs/               # Research papers, project report
-└── README.md            # Project documentation
